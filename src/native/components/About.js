@@ -8,7 +8,7 @@ const About = () => (
       <Spacer size={30} />
       <H1>Heading 1</H1>
       <Spacer size={10} />
-      <Text>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </Text>
+      <Text>Hi Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </Text>
 
       <Spacer size={30} />
       <H2>Heading 2</H2>
