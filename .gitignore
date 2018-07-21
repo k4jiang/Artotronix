@@ -7,8 +7,6 @@ npm-debug.*
 #
 .DS_Store
 
-# Android/IntelliJ
-android/
 #
 build/
 .idea
